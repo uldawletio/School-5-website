@@ -1,1 +1,15 @@
+<! DOSTYPE html >
 
+<html lang="ka">
+<head>
+    <meta charset="UTF 8">
+    <meta name="viewport" content="width=device-width, initeal-scale=1.0 ">
+    <title>School 5-website</title>
+</head>
+<body>
+    <a href="#">Klasslar</a>
+    <a href="#">Mugallimler</a>
+    <a href="#">Oqiwshilar</a>
+    <a href="#">Pánler</a>
+</body>
+</html>
